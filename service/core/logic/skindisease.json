@@ -1,0 +1,419 @@
+{
+  "skin_diseases": [
+    {
+      "name": "Acne",
+      "overview": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells. It often causes pimples, blackheads, or whiteheads, and typically appears on the face, forehead, chest, upper back, and shoulders.",
+      "symptoms": [
+        "Pimples (pustules)",
+        "Blackheads",
+        "Whiteheads",
+        "Inflamed lesions"
+      ],
+      "causes": [
+        "Excess oil production",
+        "Clogged hair follicles",
+        "Bacteria",
+        "Hormonal changes"
+      ],
+      "treatments": [
+        "Topical medications (e.g., benzoyl peroxide, retinoids)",
+        "Oral medications (e.g., antibiotics, isotretinoin)",
+        "Lifestyle changes (e.g., proper skincare routine, avoiding triggers)",
+        "Procedures (e.g., chemical peels, laser therapy)"
+      ]
+    },
+    {
+      "name": "Actinic Keratosis",
+      "overview": "Actinic keratosis is a precancerous skin growth caused by long-term exposure to sunlight. It appears as rough, scaly patches, usually on areas exposed to the sun, such as the face, ears, scalp, and hands.",
+      "symptoms": [
+        "Rough, scaly patches",
+        "Itching or burning sensation",
+        "Color variation (pink, red, brown)"
+      ],
+      "causes": ["Chronic sun exposure", "UV radiation"],
+      "treatments": [
+        "Cryotherapy (freezing)",
+        "Topical medications (e.g., fluorouracil cream, imiquimod cream)",
+        "Photodynamic therapy",
+        "Surgical removal"
+      ]
+    },
+    {
+      "name": "Benign tumors",
+      "overview": "Benign tumors are non-cancerous growths that can develop in various tissues of the body, including the skin. They typically grow slowly and do not invade surrounding tissues or spread to other parts of the body.",
+      "symptoms": [
+        "Visible lump or mass",
+        "Smooth, well-defined borders",
+        "No pain or discomfort (in most cases)"
+      ],
+      "causes": ["Genetic factors", "Environmental factors"],
+      "treatments": [
+        "Observation (if asymptomatic)",
+        "Surgical removal (if causing symptoms or concerns)"
+      ]
+    },
+    {
+      "name": "Bullous",
+      "overview": "Bullous diseases are a group of rare skin conditions characterized by the formation of large fluid-filled blisters (bullae) on the skin or mucous membranes. These blisters can vary in size and may be caused by autoimmune reactions or genetic factors.",
+      "symptoms": [
+        "Large fluid-filled blisters (bullae)",
+        "Itching or burning sensation",
+        "Pain or tenderness"
+      ],
+      "causes": [
+        "Autoimmune reactions",
+        "Genetic factors",
+        "Exposure to certain medications or chemicals"
+      ],
+      "treatments": [
+        "Corticosteroids (topical or systemic)",
+        "Immunosuppressive medications",
+        "Wound care (to prevent infection and promote healing)",
+        "Treatments to suppress the immune system or remove antibodies (in severe cases)"
+      ]
+    },
+    {
+      "name": "Candidiasis",
+      "overview": "Candidiasis is a fungal infection caused by the Candida yeast species. It can affect various parts of the body, including the skin, mouth, throat, genitals, and bloodstream. Skin candidiasis typically presents as a red, itchy rash with satellite lesions.",
+      "symptoms": [
+        "Red, inflamed skin",
+        "Itching or burning sensation",
+        "Rash with well-defined borders",
+        "Satellite lesions (smaller lesions surrounding the main rash)"
+      ],
+      "causes": [
+        "Overgrowth of Candida yeast on the skin",
+        "Warm, moist environments",
+        "Weakened immune system"
+      ],
+      "treatments": [
+        "Antifungal creams or ointments (e.g., clotrimazole, miconazole)",
+        "Oral antifungal medications (for severe or recurrent cases)",
+        "Keeping the affected area clean and dry",
+        "Avoiding tight-fitting clothing"
+      ]
+    },
+    {
+      "name": "Drug Eruption",
+      "overview": "Drug eruptions are skin reactions caused by exposure to certain medications. These reactions can range from mild rashes to severe blistering and can occur shortly after starting a new medication or even weeks to months later.",
+      "symptoms": ["Rash", "Itching", "Blisters", "Swelling", "Redness"],
+      "causes": [
+        "Allergic reactions to medications",
+        "Toxic reactions to medications"
+      ],
+      "treatments": [
+        "Discontinuation of the offending medication",
+        "Topical corticosteroids (for mild cases)",
+        "Oral antihistamines (for itching)",
+        "Systemic corticosteroids (for severe cases)",
+        "Treatment of any underlying infection or systemic symptoms"
+      ]
+    },
+    {
+      "name": "Eczema",
+      "overview": "Eczema, also known as atopic dermatitis, is a chronic inflammatory skin condition characterized by dry, itchy, and red patches on the skin. It often occurs in individuals with a personal or family history of allergies, asthma, or eczema.",
+      "symptoms": [
+        "Dry, sensitive skin",
+        "Itching, which may be severe",
+        "Red to brownish-gray patches, especially on the hands, feet, ankles, wrists, neck, upper chest, eyelids, inside the bends of the elbows and knees",
+        "Small, raised bumps that may leak fluid and crust over when scratched"
+      ],
+      "causes": [
+        "Genetics",
+        "Immune system dysfunction",
+        "Environmental factors (e.g., irritants, allergens)"
+      ],
+      "treatments": [
+        "Moisturizers to hydrate the skin",
+        "Topical corticosteroids or calcineurin inhibitors to reduce inflammation",
+        "Antihistamines to alleviate itching",
+        "Avoiding triggers (e.g., harsh soaps, allergens)",
+        "Phototherapy (light therapy) in severe cases"
+      ]
+    },
+    {
+      "name": "Infestations and Bites",
+      "overview": "Infestations and bites refer to various skin conditions caused by infestations of parasites (such as lice, scabies) or bites from insects or arachnids (such as mosquitoes, fleas).",
+      "symptoms": [
+        "Itching",
+        "Redness",
+        "Swelling",
+        "Visible bite marks or burrows",
+        "Secondary infections (from scratching)"
+      ],
+      "causes": ["Parasitic infestation", "Insect or arachnid bites"],
+      "treatments": [
+        "Topical or oral medications to kill parasites (e.g., permethrin for scabies)",
+        "Antihistamines to relieve itching",
+        "Topical corticosteroids for inflammation",
+        "Proper wound care to prevent infection"
+      ]
+    },
+    {
+      "name": "Lichen",
+      "overview": "Lichen planus is a chronic inflammatory skin condition that affects the skin, mucous membranes, hair, and nails. It presents as itchy, flat-topped, polygonal bumps that may be purple, violaceous, or pink in color.",
+      "symptoms": [
+        "Itchy, flat-topped bumps",
+        "Purple, violaceous, or pink lesions",
+        "Wickham striae (white, lacy lines) within the lesions"
+      ],
+      "causes": [
+        "Autoimmune reaction",
+        "Certain medications",
+        "Hepatitis C virus infection (in some cases)"
+      ],
+      "treatments": [
+        "Topical corticosteroids",
+        "Topical calcineurin inhibitors",
+        "Phototherapy",
+        "Oral medications (e.g., corticosteroids, retinoids) for severe cases"
+      ]
+    },
+    {
+      "name": "Lupus",
+      "overview": "Lupus is a chronic autoimmune disease that can affect various parts of the body, including the skin, joints, kidneys, heart, lungs, and brain. Cutaneous lupus erythematosus (CLE) specifically involves skin manifestations, which can range from mild rashes to severe lesions.",
+      "symptoms": [
+        "Butterfly-shaped rash on the face (malar rash)",
+        "Discoid lupus rash (raised, scaly patches)",
+        "Photosensitivity (increased sensitivity to sunlight)",
+        "Mouth or nasal ulcers",
+        "Hair loss"
+      ],
+      "causes": [
+        "Autoimmune dysfunction",
+        "Genetic predisposition",
+        "Environmental factors (e.g., sunlight exposure)"
+      ],
+      "treatments": [
+        "Topical corticosteroids or calcineurin inhibitors",
+        "Antimalarial medications (e.g., hydroxychloroquine)",
+        "Systemic corticosteroids or immunosuppressants for severe cases",
+        "Sun protection measures (e.g., sunscreen, protective clothing)"
+      ]
+    },
+    {
+      "name": "Moles",
+      "overview": "Moles are common skin growths that are usually brown or black in color. They can appear anywhere on the skin and vary in size, shape, and texture. While most moles are harmless, some may develop into melanoma, a type of skin cancer.",
+      "symptoms": [
+        "Pigmented spots on the skin",
+        "Round or oval shape",
+        "Even coloration",
+        "Smooth or slightly raised surface"
+      ],
+      "causes": [
+        "Clusters of melanocytes (pigment-producing cells)",
+        "Genetic predisposition",
+        "Sun exposure"
+      ],
+      "treatments": [
+        "Observation (for benign moles)",
+        "Surgical removal (if concerning features or changes are observed)",
+        "Biopsy (if melanoma is suspected)"
+      ]
+    },
+    {
+      "name": "Psoriasis",
+      "overview": "Psoriasis is a chronic autoimmune skin disorder characterized by the rapid proliferation of skin cells, resulting in thick, red patches covered with silvery scales. It commonly affects the scalp, elbows, knees, and lower back.",
+      "symptoms": [
+        "Red, inflamed patches of skin",
+        "Silvery-white scales",
+        "Itching or burning sensation",
+        "Thickened, pitted, or ridged nails"
+      ],
+      "causes": [
+        "Genetic predisposition",
+        "Immune system dysfunction",
+        "Environmental triggers (e.g., stress, infections)"
+      ],
+      "treatments": [
+        "Topical corticosteroids or calcineurin inhibitors",
+        "Phototherapy (UVB or PUVA)",
+        "Systemic medications (e.g., methotrexate, cyclosporine)",
+        "Biologic agents (e.g., TNF-alpha inhibitors, interleukin inhibitors)"
+      ]
+    },
+    {
+      "name": "Rosacea",
+      "overview": "Rosacea is a chronic inflammatory skin condition that primarily affects the face, causing redness, visible blood vessels, and sometimes small, pus-filled bumps. It often begins with flushing or persistent redness on the central face and may worsen over time if left untreated.",
+      "symptoms": [
+        "Facial redness (flushing or persistent)",
+        "Visible blood vessels (telangiectasia)",
+        "Papules and pustules (similar to acne)",
+        "Thickened skin (especially on the nose)"
+      ],
+      "causes": [
+        "Genetic predisposition",
+        "Abnormalities in the blood vessels or immune system",
+        "Triggers such as sunlight, stress, spicy foods, alcohol, or certain medications"
+      ],
+      "treatments": [
+        "Topical medications (e.g., metronidazole, azelaic acid)",
+        "Oral antibiotics (for inflammatory lesions)",
+        "Laser therapy (to reduce redness or remove visible blood vessels)",
+        "Avoiding triggers and proper skincare routine"
+      ]
+    },
+    {
+      "name": "Seborrheic Keratoses",
+      "overview": "Seborrheic keratoses are common non-cancerous skin growths that appear as brown, black, or tan warty growths on the skin. They can vary in size and may have a stuck-on appearance.",
+      "symptoms": [
+        "Warty or wart-like growths",
+        "Brown, black, or tan coloration",
+        "Velvety or rough texture",
+        "May itch or become irritated"
+      ],
+      "causes": ["Exact cause unknown", "Genetic predisposition"],
+      "treatments": [
+        "Generally, no treatment is necessary unless the growth becomes irritated or bothersome",
+        "Surgical removal (for cosmetic reasons or if there is concern about cancer)"
+      ]
+    },
+    {
+      "name": "Skin Cancer",
+      "overview": "Skin cancer is the abnormal growth of skin cells, typically caused by prolonged exposure to ultraviolet (UV) radiation from sunlight or tanning beds. There are three main types: basal cell carcinoma, squamous cell carcinoma, and melanoma.",
+      "symptoms": [
+        "Changes in the size, shape, or color of moles or spots on the skin",
+        "New growths or sores that don't heal",
+        "Itching, tenderness, or pain in the affected area"
+      ],
+      "causes": [
+        "UV radiation exposure",
+        "Genetic predisposition",
+        "Weakened immune system"
+      ],
+      "treatments": [
+        "Surgical excision",
+        "Mohs micrographic surgery (for certain types of skin cancer)",
+        "Radiation therapy",
+        "Chemotherapy or immunotherapy (for advanced cases)"
+      ]
+    },
+    {
+      "name": "Sun_Sunlight_Damage",
+      "overview": "Sun damage refers to various skin changes caused by prolonged exposure to ultraviolet (UV) radiation from the sun. It can manifest as sunburn, premature aging (photoaging), or an increased risk of skin cancer.",
+      "symptoms": [
+        "Sunburn (red, painful skin)",
+        "Wrinkles and fine lines",
+        "Sunspots or age spots",
+        "Rough or leathery texture"
+      ],
+      "causes": [
+        "Exposure to UV radiation from sunlight",
+        "Lack of sun protection (e.g., sunscreen, protective clothing)"
+      ],
+      "treatments": [
+        "Prevention through sun protection measures (e.g., sunscreen, hats, seeking shade)",
+        "Topical retinoids or antioxidants to improve skin texture and appearance",
+        "Laser therapy or chemical peels for more severe sun damage",
+        "Regular skin cancer screenings"
+      ]
+    },
+    {
+      "name": "Tinea",
+      "overview": "Tinea, also known as ringworm, refers to a group of fungal skin infections that can affect various parts of the body, including the scalp (tinea capitis), body (tinea corporis), groin (tinea cruris), feet (tinea pedis), and nails (tinea unguium). It is characterized by red, itchy, circular patches with raised edges.",
+      "symptoms": [
+        "Red, scaly patches with raised edges",
+        "Itching or burning sensation",
+        "Clearing or central healing of the rash",
+        "Possible hair loss (in tinea capitis)"
+      ],
+      "causes": ["Fungal infection (usually dermatophytes)"],
+      "treatments": [
+        "Topical antifungal medications (e.g., clotrimazole, terbinafine)",
+        "Oral antifungal medications (for severe or widespread infections)",
+        "Keeping the affected area clean and dry",
+        "Avoiding sharing personal items (e.g., towels, clothing) with infected individuals"
+      ]
+    },
+    {
+      "name": "Unknown_Normal",
+      "overview": "Unknown/Wrong image or the condition of  skin is  normal/unknown.",
+      "symptoms": ["No abnormal symptoms"],
+      "causes": ["Unknown"],
+      "treatments": ["No treatment necessary"]
+    },
+    {
+      "name": "Vascular Tumors",
+      "overview": "Vascular tumors are abnormal growths that arise from blood vessels or lymphatic vessels. They can be benign or malignant and may occur anywhere on the body.",
+      "symptoms": [
+        "Visible mass or lump",
+        "May be red or blue in color",
+        "Pain or tenderness (in some cases)"
+      ],
+      "causes": [
+        "Abnormal growth of blood vessels or lymphatic vessels",
+        "Genetic predisposition (in some cases)"
+      ],
+      "treatments": [
+        "Observation (for benign tumors)",
+        "Surgical removal",
+        "Radiation therapy",
+        "Chemotherapy or targeted therapy (for malignant tumors)"
+      ]
+    },
+    {
+      "name": "Vasculitis",
+      "overview": "Vasculitis is a group of diseases characterized by inflammation of blood vessels, which can affect vessels of any size or type. Depending on the type and location of the blood vessels involved, vasculitis can cause a wide range of symptoms.",
+      "symptoms": [
+        "Skin rash",
+        "Pain or tenderness in affected areas",
+        "Ulcers or sores",
+        "Fever",
+        "Fatigue",
+        "Muscle or joint pain"
+      ],
+      "causes": [
+        "Autoimmune reactions",
+        "Infections",
+        "Certain medications",
+        "Genetic predisposition (in some cases)"
+      ],
+      "treatments": [
+        "Corticosteroids",
+        "Immunosuppressive medications",
+        "Treatment of underlying cause (e.g., infection)",
+        "Plasmapheresis (in severe cases)"
+      ]
+    },
+    {
+      "name": "Vitiligo",
+      "overview": "Vitiligo is a skin disorder characterized by the loss of pigment-producing cells (melanocytes), resulting in white patches on the skin. It can occur at any age and may affect any part of the body.",
+      "symptoms": [
+        "White patches on the skin",
+        "Loss of color in the mucous membranes (e.g., lips, eyes)",
+        "Premature graying of the hair"
+      ],
+      "causes": [
+        "Autoimmune reaction (destroying melanocytes)",
+        "Genetic predisposition",
+        "Environmental factors (e.g., sun exposure, stress)"
+      ],
+      "treatments": [
+        "Topical corticosteroids or calcineurin inhibitors",
+        "Phototherapy (narrowband UVB)",
+        "Depigmentation therapy (for widespread vitiligo)",
+        "Cosmetic camouflage (makeup or self-tanning products)"
+      ]
+    },
+    {
+      "name": "Warts",
+      "overview": "Warts are benign skin growths caused by infection with the human papillomavirus (HPV). They can appear anywhere on the body and vary in size and appearance depending on the type of HPV involved.",
+      "symptoms": [
+        "Flesh-colored, raised bumps",
+        "Rough or smooth texture",
+        "Black dots (clotted blood vessels) in the center",
+        "May cause pain or discomfort (especially on pressure points)"
+      ],
+      "causes": [
+        "Infection with human papillomavirus (HPV)",
+        "Direct contact with an infected person or surface"
+      ],
+      "treatments": [
+        "Topical treatments (e.g., salicylic acid, cryotherapy)",
+        "Surgical removal",
+        "Laser therapy",
+        "Immunotherapy (e.g., injection of antigens to stimulate the immune system)"
+      ]
+    }
+  ]
+}
