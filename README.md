@@ -20,6 +20,35 @@ This dataset consists of images classified into 22 distinct skin disease categor
 
 ---
 
+## 🩹 Supported Skin Disease Classes  
+
+The model can detect and classify the following skin conditions:  
+
+- **Acne**  
+- **Actinic Keratosis**  
+- **Benign Tumors**  
+- **Bullous**  
+- **Candidiasis**  
+- **Drug Eruption**  
+- **Eczema**  
+- **Infestations/Bites**  
+- **Lichen**  
+- **Lupus**  
+- **Moles**  
+- **Psoriasis**  
+- **Rosacea**  
+- **Seborrheic Keratoses**  
+- **Skin Cancer**  
+- **Sun/Sunlight Damage**  
+- **Tinea**  
+- **Unknown/Normal**  
+- **Vascular Tumors**  
+- **Vasculitis**  
+- **Vitiligo**  
+- **Warts**  
+
+---
+
 ## ⚙️ Backend Details  
 
 The backend is built with **FastAPI**, enabling seamless API interactions.  
